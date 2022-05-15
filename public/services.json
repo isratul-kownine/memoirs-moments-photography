@@ -1,65 +1,47 @@
 [
     {
       "_id": "627d536c3a6e83e60ba0a0ba",
-      "picture": "http://placehold.it/32x32",
-      "price": "17000",
-      "name": "Wiley",
-      "about": "Aliqua consectetur mollit occaecat est eiusmod sit nisi. Eiusmod culpa quis voluptate culpa proident. Fugiat anim aliqua magna pariatur sit ullamco est nisi cupidatat quis velit amet ut. Occaecat labore ex et dolore deserunt non officia reprehenderit ipsum. Incididunt minim incididunt consequat non culpa minim ea anim quis nostrud laborum irure. Nulla laboris elit cupidatat deserunt do mollit officia aliquip dolore sunt cillum.\r\n"
+      "picture": "https://i.ibb.co/4tKKRj9/pre-6-1.jpg",
+      "price": "300",
+      "name": "Pre-Wedding Photoshoot",
+      "about": "A pre-wedding shoot takes place any time before a couple's wedding date—even the day before! These sessions are not focused on ring shots, proposal recreations.Pre-wedding shoots are for those who want good pictures of togetherness; without the hassles of the heavy wedding attires, makeup, ornaments, umpteen number of people around, and the annoying selfies etc. \r\n"
     },
     {
       "_id": "627d536c0ff2b3075d09475c",
-      "picture": "http://placehold.it/32x32",
-      "price": "<SyntaxError: Unexpected number>",
-      "name": "Morris",
-      "about": "Exercitation reprehenderit id commodo cupidatat non do consequat. Deserunt dolore ullamco reprehenderit quis. Pariatur consequat commodo nostrud eiusmod nisi. Magna esse ullamco et cillum voluptate eiusmod esse est ipsum. Ex anim commodo ullamco laborum quis. Quis cupidatat aliqua Lorem do laborum do. Mollit veniam magna cupidatat velit tempor minim labore adipisicing id consectetur eu dolore eu nisi.\r\n"
+      "picture": "https://i.ibb.co/W0TXGWh/post-wedding-1.png",
+      "price": "350",
+      "name": "Post-Wedding Photoshoot",
+      "about": "A post-wedding shoot is a milestone in a marriage. A post-wedding shoot documents your journey with your partner and can be done anytime you would like. The love can always be kept alive between a couple if they have a happy memory to lean back on.\r\n"
     },
     {
       "_id": "627d536c9038935da6b744bc",
-      "picture": "http://placehold.it/32x32",
-      "price": "<SyntaxError: Unexpected number>",
-      "name": "Gladys",
-      "about": "Cupidatat excepteur deserunt quis consectetur enim magna tempor sint minim. Incididunt tempor minim esse ipsum. Laborum deserunt excepteur ullamco velit Lorem mollit cupidatat commodo ad laborum. Fugiat laboris exercitation nostrud commodo minim eu. Dolor ex minim in aliqua eu et ipsum laborum reprehenderit reprehenderit tempor adipisicing veniam. Exercitation et irure eiusmod cupidatat eiusmod et voluptate mollit ex ea.\r\n"
+      "picture": "https://i.ibb.co/WPVTkDt/destination.jpg",
+      "price": "1000",
+      "name": "Destination Wedding",
+      "about": "When planning a wedding, choosing the right venue matters. A destination wedding is something you may consider if you'd like to tie the knot someplace memorable. Destination weddings are ceremonies that are hosted away from the couple's hometown and usually require travel for the wedding party and guests.To do destination photography, you should hire a specialized photographer who understand the destination photography.You can hire us without and worries.\r\n"
     },
-    {
-      "_id": "627d536c8e23773a5d108778",
-      "picture": "http://placehold.it/32x32",
-      "price": "<SyntaxError: Unexpected number>",
-      "name": "Susan",
-      "about": "Sunt commodo eiusmod sunt consectetur sunt ipsum voluptate proident non cillum. Et veniam pariatur Lorem culpa non in laboris reprehenderit duis culpa commodo. Et enim irure Lorem elit. Exercitation cillum eu officia consectetur pariatur pariatur irure. Incididunt reprehenderit duis officia sunt commodo reprehenderit ad reprehenderit commodo veniam occaecat commodo reprehenderit.\r\n"
-    },
+    
     {
       "_id": "627d536cf39cd8f6db78e46a",
-      "picture": "http://placehold.it/32x32",
-      "price": "<SyntaxError: Unexpected number>",
-      "name": "Abbott",
-      "about": "Mollit tempor mollit aliquip tempor exercitation aliquip reprehenderit. Aliquip velit anim occaecat ullamco tempor quis tempor voluptate dolore aliquip ad consectetur. Consectetur exercitation dolore nulla fugiat nisi deserunt cupidatat cillum amet voluptate culpa. Exercitation adipisicing irure dolore eu ipsum qui Lorem sunt sunt. Nisi id minim culpa labore labore occaecat anim amet. Nostrud non reprehenderit commodo qui.\r\n"
+      "picture": "https://i.ibb.co/7C4nsQc/potrat1-1.jpg",
+      "price": "380",
+      "name": "Potrait Wedding Photoshoot",
+      "about": "Portrait photography is one of the most popular genres of photography, with good reason. Good portrait photographers are able to capture the personality and emotion of people around them.\r\n"
     },
     {
       "_id": "627d536c1db7eccded7f2ffe",
-      "picture": "http://placehold.it/32x32",
-      "price": "<SyntaxError: Unexpected number>",
-      "name": "Maxine",
-      "about": "Ipsum minim fugiat dolore cillum fugiat ullamco minim. Cillum esse deserunt ullamco ad incididunt pariatur aliqua. Adipisicing aute nulla dolor esse deserunt. Et culpa culpa nostrud nulla ipsum ipsum mollit tempor cillum reprehenderit.\r\n"
+      "picture": "https://i.ibb.co/m9mRBFG/family-Photoshoot-1.jpg",
+      "price": "480",
+      "name": "Documentary Wedding Photoshoot",
+      "about": "Documentary Wedding Photography is a candid style of Wedding Photography. The Photographer will not direct or pose you throughout the day. The Wedding couple is free to enjoy their wedding while the documentary style wedding photographer creates a set of pictures that tells the story of the day.\r\n"
     },
-    {
-      "_id": "627d536c1c72565c1799651c",
-      "picture": "http://placehold.it/32x32",
-      "price": "<SyntaxError: Unexpected number>",
-      "name": "Gloria",
-      "about": "Velit adipisicing irure ipsum minim nisi proident sit nostrud pariatur in cillum dolor aliqua. Aliquip Lorem deserunt cillum qui. Fugiat minim quis nisi nulla aute aliquip occaecat velit veniam.\r\n"
-    },
+    
     {
       "_id": "627d536ca2a75f1226642e97",
-      "picture": "http://placehold.it/32x32",
-      "price": "<SyntaxError: Unexpected number>",
-      "name": "Snyder",
-      "about": "Tempor consectetur do irure deserunt Lorem aliqua fugiat magna. Minim duis ea ea eiusmod eiusmod pariatur. Irure ea excepteur est do sint nulla reprehenderit commodo ea amet occaecat esse enim enim. Magna fugiat cillum et adipisicing voluptate aute eu aliquip ullamco nulla non dolor irure eiusmod.\r\n"
-    },
-    {
-      "_id": "627d536c0fce8be2b3fd3363",
-      "picture": "http://placehold.it/32x32",
-      "price": "<SyntaxError: Unexpected number>",
-      "name": "Randall",
-      "about": "Amet ea officia fugiat ullamco tempor ea duis ullamco elit eu consequat eu. Reprehenderit sunt reprehenderit et adipisicing nisi labore deserunt aute elit adipisicing duis sit. Enim cillum eiusmod dolor non do. Exercitation incididunt irure anim reprehenderit laboris proident labore. Cupidatat amet aliqua mollit nulla id sint occaecat enim incididunt ullamco proident amet. Consectetur fugiat pariatur deserunt minim labore.\r\n"
+      "picture": "https://i.ibb.co/FK6VTGB/cinematography-1.jpg",
+      "price": "550",
+      "name": "Wedding Cinematography",
+      "about": "Wedding cinematography is the art of documenting a wedding on film.Good wedding cinematography will involve the proper use of lighting, various camera angles and solid editing..\r\n"
     }
+    
   ]
